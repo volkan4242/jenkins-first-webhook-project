@@ -1,1 +1,1 @@
-print('Hello World.123467')
+print('Hello World')
